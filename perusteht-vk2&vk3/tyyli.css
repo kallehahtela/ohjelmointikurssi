@@ -1,0 +1,26 @@
+.vieri {
+    width: 500px;
+    padding: 10px;
+    margin-right: 10px;
+    float: left;
+ }
+
+ #yksi {
+     background-color:mediumturquoise;
+ }
+ 
+ #kaksi {
+     background-color:crimson;
+ }
+
+ #kolme {
+     background-color:darkgoldenrod;
+ }
+
+ #nelja {
+     background-color:darkseagreen;
+ }
+
+ #viisi {
+     background-color:magenta;
+ }
