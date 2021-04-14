@@ -1,0 +1,53 @@
+body
+{
+  background-color: beige;
+  padding: 20px;
+}
+table{
+text-align: right;
+border-collapse: collapse;
+}
+td{
+  width: 20px;
+}
+.vieri
+{
+  width: 500px;
+  padding: 10px;
+  margin: 10px;
+  margin-right: 10px;
+  float:left;
+}
+#yksi{
+  background-color: burlywood;
+}
+#kaksi{
+  background-color: yellowgreen;
+}
+#kolme{
+    background-color: rebeccapurple;
+}
+#nelja{
+    background-color:royalblue;
+}
+#viisi{
+    background-color: firebrick;
+}
+#kuusi{
+  background-color:lightcoral;
+}
+#seiska{
+  background-color:lightblue;
+}
+#kasi{
+  background-color: pink;
+}
+#ysi{
+  background-color: palevioletred;
+}
+#kyba{
+  background-color:powderblue;
+}
+#ykst{
+  background-color: aqua;
+}
